@@ -1,6 +1,6 @@
 # MERN-Book
 
-## Guide 02 - Setup
+## GUIDE 02 - SETUP
 
 ---
 
